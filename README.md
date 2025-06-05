@@ -1,3 +1,2 @@
-output :
+output : ![image](https://github.com/user-attachments/assets/5e1b93ae-8dd9-4889-8bf9-7c8a254f1d59)
 
-![image](https://github.com/user-attachments/assets/65f77817-ca1b-4644-a009-5c04ca155b1c)
